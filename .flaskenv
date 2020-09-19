@@ -1,4 +1,2 @@
 FLASK_ENV=development
-FLASK_RUN_HOST=
-FLASK_RUN_PORT=
-FLASK_APP=
+FLASK_APP=sayhello
